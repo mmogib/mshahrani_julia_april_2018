@@ -1,0 +1,11 @@
+https://api.intrinio.com/companies.csv?exch_symbol=^Xsau&ticker=2010
+
+https://api.intrinio.com/prices/exchange.csv?identifier=^XSAU&price_date=2017-02-27
+
+Prices
+https://api.intrinio.com/prices.csv?ticker=2010
+
+
+
+Companies
+https://api.intrinio.com/securities?exch_symbol=^Xsau
